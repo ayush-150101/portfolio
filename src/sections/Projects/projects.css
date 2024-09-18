@@ -1,0 +1,48 @@
+.project-card {
+  margin-bottom: 30px;
+  text-align: left;
+  background-color: #1b1e21;
+  border-left: 20px solid #555;
+  padding-left: 10px;
+  padding-top: 0.009%;
+  border-radius: 10px;
+  padding-bottom: 5px;
+}
+
+.project-card li {
+  color: #ffffff;
+  margin-bottom: 5px;
+}
+
+.project-card p {
+  color: #ffffff;
+  margin-bottom: 5px;
+}
+
+.project-card h3 {
+  color: #ffffff;
+}
+
+.project-card a {
+  color: #ffffff;
+  margin-bottom: 5px;
+}
+
+.project-card:hover {
+  transform: scale(1.01);
+  background-color: #1b1e21;
+  border-left: 20px solid #555;
+  padding-left: 25px;
+  box-shadow: 0 0px 20px rgba(0, 123, 255, 0.5);
+  transition: all 0.5s ease;
+}
+
+.project-top {
+  margin-top: 20px;
+}
+
+.project-tech-stack {
+  font-size: 16px;
+  color: #888;
+  margin-bottom: 15px;
+}

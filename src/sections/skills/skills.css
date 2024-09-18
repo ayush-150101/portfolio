@@ -1,0 +1,12 @@
+.skill-card {
+  margin-bottom: 30px;
+  text-align: left;
+  background-color: #1b1e21;
+  padding-left: 10px;
+  padding-top: 0.009%;
+  border-radius: 10px;
+}
+
+.skill-card li {
+  color: #ffffff;
+}
