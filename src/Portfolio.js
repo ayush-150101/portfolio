@@ -10,7 +10,7 @@ import Home from "./sections/home/home";
 import Contact from "./sections/contact/contact";
 
 const Portfolio = () => {
-  const [activeTab, setActiveTab] = useState("Career");
+  const [activeTab, setActiveTab] = useState("Home");
 
   // Function to render the content based on active tab
   const renderContent = () => {

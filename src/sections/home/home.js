@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <section className="home-section">
       <img
-        src="/images/DisplayPicture.jpg"
+        src="./images/DisplayPicture.jpg"
         alt="Profile"
         className="home-image"
       />
